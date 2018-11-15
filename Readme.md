@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication57/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication57/MainWindow.xaml.vb))
+* **[MainWindow.xaml.cs](./CS/WpfApplication57/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication57/MainWindow.xaml.vb))**
+<!-- default file list end -->
 # How to: Convert a Value Entered by a User to a Custom Type
 
 
